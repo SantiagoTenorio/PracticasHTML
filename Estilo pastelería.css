@@ -1,0 +1,20 @@
+*{
+    font-family: cursive;
+}
+
+.fondo{
+    background-color: aquamarine;
+}
+
+.fondoimagen{
+    background-image: url(/fondo\ pastelería.jpg);
+}
+
+.centrado{
+    text-align: center;
+}
+
+.derecha{
+    text-align: right;
+}
+
